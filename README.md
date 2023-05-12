@@ -12,15 +12,6 @@ I am a Software Developer and Data Analyst. I specialize in full stack developme
 * 🤝  I'm open to collaborating on Projects
 
 
-### Contact me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ademola-idowu-815a8b198" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-</p>
-
-
 ### Skills
 
 <table>
@@ -37,6 +28,21 @@ I am a Software Developer and Data Analyst. I specialize in full stack developme
   </tr>
   
   <tr>
+    <td>Data Science</td>
+    <td>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"                   alt="pandas" width="40" height="40">
+      </a>
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40">
+      </a>
+     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40">
+     </a>
+    </td>
+  </tr>
+  
+  <tr>
     <td>Backend Dev</td>
     <td>
       <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
@@ -47,6 +53,9 @@ I am a Software Developer and Data Analyst. I specialize in full stack developme
       </a>
       <a href="https://graphql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" height="40"           alt="GraphQL" />
+      </a>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws" />
       </a>
     </td>
   </tr>
@@ -84,6 +93,12 @@ I am a Software Developer and Data Analyst. I specialize in full stack developme
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"                   height="40" alt="PostgreSQL" />
       </a>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dynamodb" />
+      </a>
+      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+      </a>
     </td>
   </tr>
   
@@ -98,12 +113,29 @@ I am a Software Developer and Data Analyst. I specialize in full stack developme
 </table>
 
 
-### Badges
+### My Github Stats
 
-<b>My GitHub Stats</b>
+<table>
+  <tr>
+    <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=ademolaidowu&row=3&column=4&no-bg=true"/>
+    </td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ademolaidowu"/>
+    </td> 
+  </tr>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ademolaidowu&count_private=true&show_icons=true&theme=tokyonight"/>
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademolaidowu&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/ademolaidowu"><img src="https://github-readme-stats.vercel.app/api?username=ademolaidowu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="ademolaidowu's GitHub stats" /></a>
 
-<a href="http://www.github.com/ademolaidowu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ademolaidowu&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="https://github.com/ademolaidowu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademolaidowu&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+

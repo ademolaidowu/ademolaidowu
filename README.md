@@ -1,6 +1,6 @@
 # Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Demola
 
-### Software Engineer | Data Analyst
+### Software Developer | Data Analyst
 
 I am a Software Developer and Data Analyst. I specialize in full stack development of Web and Mobile Applications. I am also a machine learning enthusiast and a data analyst and who loves playing with data and analyzing or visualizing data with several tools.
 

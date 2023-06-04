@@ -123,15 +123,12 @@ I am a Software Developer and Data Analyst. I specialize in full stack developme
     <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademolaidowu&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
     </td>
-  </tr>
-  <tr>
-    <td>
-       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ademolaidowu&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="475" />
-    </td>
-    <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ademolaidowu"/>
-    </td> 
-  </tr>
+ </tr>
+ <tr>
+  <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ademolaidowu"/>
+  </td> 
+ </tr>
 </table>
 
 

@@ -4,8 +4,8 @@
 
 I am a Software Developer and Data Analyst. I specialize in full stack development of Web and Mobile Applications. I am also a machine learning enthusiast and a data analyst and who loves playing with data and analyzing or visualizing data with several tools.
 
-* 🚀  I'm currently working on [Tikwey Web and Mobile Application](http://tikwey.com)
-* 🧠  I'm learning __Typescript and Machine Learning Algorithms__
+* 🚀  I'm currently working on [Gazapay Web and Mobile Application](http://gezapay.com)
+* 🧠  I'm learning __Machine Learning Algorithms__
 * 💬  Ask me about __Web dev, Mobile dev, Cloud Computing (AWS), Data analysis and visualization__
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ademolaidowu05@gmail.com](mailto:ademolaidowu05@gmail.com)

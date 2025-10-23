@@ -113,29 +113,6 @@ I am a Software Developer and Data Analyst. I specialize in full stack developme
 </table>
 
 
-### My Github Stats
-
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ademolaidowu&count_private=true&show_icons=true&theme=tokyonight"/>
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademolaidowu&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-    </td>
- </tr>
-</table>
- 
-<table>
- <tr>
-  <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ademolaidowu"/>
-  </td> 
- </tr>
-</table>
-
-
-
 
 
 

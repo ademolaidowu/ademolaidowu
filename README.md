@@ -4,7 +4,7 @@
 
 I am a Software Developer and Data Analyst. I specialize in full stack development of Web and Mobile Applications. I am also a data analyst and machine learning enthusiast who loves playing with data and analyzing or visualizing data with several tools.
 
-* 🚀  I'm currently working on [Gezapay Web and Mobile Application](http://gezapay.com)
+* 🚀  I'm currently working on [Tikwey Health SaaS Application]
 * 🧠  I'm learning __Machine Learning Algorithms__
 * 💬  Ask me about __Web dev, Mobile dev, Cloud Computing (AWS), Data analysis and visualization__
 * 🌍  I'm based in Lagos, Nigeria

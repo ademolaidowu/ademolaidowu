@@ -32,10 +32,13 @@ Multitenant stores with a live preview theme builder, Paystack billing and a dou
 Most of this work is in private repositories. I'm happy to walk through the architecture on a call.
 
 ---
-
 ### Writing
-
-At [ademolaidowu.com/blog](https://www.ademolaidowu.com/blog), including the [Advanced Django series](https://www.ademolaidowu.com/blog/advanced-django-models) (models, querysets, services, serializers, permissions) and [typing Python like TypeScript](https://www.ademolaidowu.com/blog/typing-python-and-typescript).
+ 
+- [Building Sonecare: an operating system for Nigeria's HMOs and providers](https://www.ademolaidowu.com/blog/building-sonecare-healthcare-os)
+- [Advanced Django](https://www.ademolaidowu.com/blog/advanced-django-models), a five part series on production patterns: models, querysets, services, serializers, permissions
+- [Building a lean music analytics platform](https://www.ademolaidowu.com/blog/building-a-lean-music-analytics-platform)
+- [Type your Python the way you type your TypeScript](https://www.ademolaidowu.com/blog/typing-python-and-typescript)
+More at [ademolaidowu.com/blog](https://www.ademolaidowu.com/blog)
 
 ### Stack
 

@@ -1,6 +1,6 @@
 # Hi, I'm Demola 👋
 
-**Software Engineer** · Full Stack (Python, TypeScript, Cloud) · Data Systems
+**Software Engineer** · Full Stack (Python, TypeScript, Cloud, AI) · Data Systems
 
 I design and ship multitenant SaaS products end to end, from the data model to deployment. Over 5+ years I've built claims engines for health insurers, payment wallets and ledgers, accounting workflow automation, data pipelines and dashboards, and AI agents built on tested, deterministic Python tools.
 
